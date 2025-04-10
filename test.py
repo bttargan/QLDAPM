@@ -1,3 +1,4 @@
 print("hello")
 print("QLDAPM")
-print("sua lan 2")
+print("sua lan 1")
+
